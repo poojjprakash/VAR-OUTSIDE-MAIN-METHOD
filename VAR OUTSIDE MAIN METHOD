@@ -1,0 +1,10 @@
+public class Main
+{
+    int x;
+	public static void main(String[] args) {
+int a;
+ Main m = new Main();
+//System.out.println(a);
+System.out.println(m.x);
+	}
+}
